@@ -1,5 +1,6 @@
 package hello;
 
+// comment
 import java.util.Date;
 
 public class Greeting {
